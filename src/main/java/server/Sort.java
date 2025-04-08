@@ -13,6 +13,8 @@ public class Sort {
                     break;
             a[j + 1] = value;
         }
+
+        // 이걸 main이랑 병합하면 merge 됐다고 올라가는지 test
     }
 
 }
